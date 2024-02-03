@@ -1,0 +1,5 @@
+requests
+readline
+python-dotenv
+prompt-toolkit
+rich
